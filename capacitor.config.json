@@ -1,0 +1,6 @@
+{
+  "appId": "co.enque.monthlysimplified",
+  "appName": "Monthlies Simplified",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}

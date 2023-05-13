@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Monthlies Simplified</string>
+    <string name="title_activity_main">MonthlySimplified</string>
+    <string name="package_name">co.enque.monthlysimplified</string>
+    <string name="custom_url_scheme">co.enque.monthlysimplified</string>
+</resources>
